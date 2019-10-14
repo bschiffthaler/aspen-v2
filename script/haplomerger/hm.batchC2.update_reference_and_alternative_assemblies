@@ -1,0 +1,63 @@
+#### hm.batchC2.update_reference_and_alternative_assemblies v1.50
+####
+#### This shell script invocate SSPACE to rescaffold the reference haploid assembly.
+
+#### setting variables
+name=$1								# the species_name or the prefix of the genome file name
+
+###################################################################################################
+#### running
+if [ $# -eq 0 ]
+	then
+		echo
+		echo "Species name or the prefix of your genome file name is required !"
+		echo ""
+		echo "USAGE: $0 species_name"
+		echo
+		echo "Note that your genome sequence file should be"
+		echo "gzip compressed fasta file called assembly_name.fa.gz ."
+		echo 
+		exit 1
+	elif [ ! -f $1.fa.gz ]
+	then
+		echo
+		echo "$1.fa.gz is not found !"
+		echo 
+		exit 1	
+fi
+
+#### print out output file names
+echo
+echo ">>> Running command : $0 $1"
+echo 
+echo "These files/directories are going to be output :"
+echo "  ${name}.ss/ss_new2old_scaffolds.txt"
+echo "  *** ${name_alt}_ss.fa.gz - the updated alternative haploid assembly"
+echo "log files:"
+echo "  _ss.new_ref_and_alt_scf.log"
+echo 
+
+#### ===========================================================
+#### update the reference and alternative haploid assembly 
+####     based on the re-scaffoled reference haploid assembly
+#### ===========================================================
+
+name_alt=${name/_ref/_alt}
+
+perl ../bin/scf2scf_exact_position_locator.pl \
+  ${name}.ss/${name}.ss.final.scaffolds.fasta2 \
+  ${name}.fa.gz    \
+  1>${name}.ss/ss_new2old_scaffolds.txt 2>_ss.new_ref_and_alt_scf.log
+
+perl ../bin/scf2scf_assembly_recreation.pl \
+  ${name}.fa.gz \
+  ${name}.ss/ss_new2old_scaffolds.txt 2>>_ss.new_ref_and_alt_scf.log \
+	| perl ../bin/faDnaPolishing.pl --legalizing --noLeadingN 2>>_ss.faDnaPolishing.log \
+	| gzip -c >${name}_ss.fa.gz
+
+perl ../bin/scf2scf_assembly_recreation.pl \
+  ${name_alt}.fa.gz \
+  ${name}.ss/ss_new2old_scaffolds.txt 2>>_ss.new_ref_and_alt_scf.log \
+	| perl ../bin/faDnaPolishing.pl --legalizing --noLeadingN 2>>_ss.faDnaPolishing.log \
+	| gzip -c >${name_alt}_ss.fa.gz
+ 

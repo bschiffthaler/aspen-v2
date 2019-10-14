@@ -1,0 +1,95 @@
+#### hm.batchE1.gap_closer v1.50
+####
+#### This shell script invocate SSPACE to rescaffold the reference haploid assembly.
+
+#### setting variables
+name=$1								# the species_name or the prefix of the genome file name
+threads=60						# the number of cpu cores to use (default=1)
+configFile="libraries/gapCloser.cfg"      # the configFile for GapCloser v1.12
+																			    # this parameter is transfered to the '-b' option of GapCloser v1.12
+																			      																			       
+
+###################################################################################################
+#### running
+if [ $# -eq 0 ]
+	then
+		echo
+		echo "Species name or the prefix of your genome file name is required !"
+		echo ""
+		echo "USAGE: $0 species_name"
+		echo
+		echo "Note that your genome sequence file should be"
+		echo "gzip compressed fasta file called assembly_name.fa.gz ."
+		echo 
+		exit 1
+	elif [ ! -f $1.fa.gz ]
+	then
+		echo
+		echo "$1.fa.gz is not found !"
+		echo 
+		exit 1	
+fi
+
+#### print out output file names
+echo
+echo ">>> Running command : $0 $1"
+echo 
+echo "These files/directories are going to be output :"
+echo "  ${name}.gf/ - the working directory for gapfilling"
+echo "  *** ${name}.agp - agp v1.1 file for ${name}.fa.gz"
+echo "  *** ${name}_gf.fa.gz - the new assembly after gap filling"
+echo "  *** ${name}_gf.agp - agp v1.1 file for ${name}_gf.fa.gz"
+echo "log files:"
+echo "  _gf.gapcloser.log"
+echo "  _gf.reconstructAssembly.log"
+echo 
+
+#### ===========================================================
+#### preparation for gap filling
+#### ===========================================================
+
+gunzip -c ${name}.fa.gz | perl ../bin/scf2agp1_1.pl --ngap >${name}.agp
+
+perl ../bin/GF_gapfilling_preparation.pl \
+	--scf=${name}.fa.gz   \
+	--agp=${name}.agp
+
+mkdir ${name}.gf
+mv -f ${name}.ad.fa.gz    ${name}.gf/
+mv -f ${name}.ad.agp      ${name}.gf/
+mv -f ${name}.ad.gap4fill ${name}.gf/
+gunzip ${name}.gf/${name}.ad.fa.gz
+
+#### ===========================================================
+#### run gapCloser v1.12
+#### ===========================================================
+
+## -b config_file
+## -a scaffold_fasta-file 
+## -o output_scaffold_fasta_file
+## -p kmer_count, fixed to 31
+## -t threads number
+## -l max read length (<=155)
+ 
+../gapCloser_v1.12/GapCloser   -l 155 -p 31 \
+  -t $threads                  \
+	-b $configFile               \
+	-a ${name}.gf/${name}.ad.fa  \
+	-o ${name}.gf/${name}.gc.fa  \
+	1>_gf.gapcloser.log 2>>_gf.gapcloser.log	
+ 
+#### ===========================================================
+#### extract gap-finishing contigs and recreate new scaffolds
+#### ===========================================================
+
+perl ../bin/GF_extract_filling_ctgs_for_gc1.12.pl \
+	--fasta=${name}.gf/${name}.gc.fa      \
+	--info=${name}.gf/${name}.gc.fa.fill  \
+	1>${name}.gf/${name}.gc.fa.fill.fctgs \
+	2>_gf.reconstructAssembly.log
+
+perl ../bin/GF_rebuid_scf_with_gap4fill_and_fctgs.pl  \
+	--fctgs=${name}.gf/${name}.gc.fa.fill.fctgs \
+	--g4f=${name}.gf/${name}.ad.gap4fill        \
+	--scf=${name}.fa.gz                         \
+	1>>_gf.reconstructAssembly.log 2>>_gf.reconstructAssembly.log	

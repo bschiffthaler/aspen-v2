@@ -1,0 +1,92 @@
+#### hm.batchC1.hierarchical_scaffolding v1.50
+####
+#### This shell script invocate SSPACE to rescaffold the reference haploid assembly.
+
+#### setting variables
+name=$1								# the species_name or the prefix of the genome file name
+threads=60							# the number of cpu cores to use (default=1)
+											# this parameter is transfered to the '-T' option of SSPACE
+minimumLinks=5        # Minimum number of links (read pairs) to compute scaffold (def=5; recommend=3-10)
+											# this parameter is transfered to the '-k' option of SSPACE
+libraryList="libraries/sspace_libraries.list"    # the libary list file for SSPACE
+																			           # this parameter is transfered to the '-l' option of SSPACE
+
+###################################################################################################
+#### running
+if [ $# -eq 0 ]
+	then
+		echo
+		echo "Species name or the prefix of your genome file name is required !"
+		echo ""
+		echo "USAGE: $0 species_name"
+		echo
+		echo "Note that your genome sequence file should be"
+		echo "gzip compressed fasta file called assembly_name.fa.gz ."
+		echo 
+		exit 1
+	elif [ ! -f $1.fa.gz ]
+	then
+		echo
+		echo "$1.fa.gz is not found !"
+		echo 
+		exit 1	
+fi
+
+#### print out output file names
+echo
+echo ">>> Running command : $0 $1"
+echo 
+echo "These files/directories are going to be output :"
+echo "  $name.ss/ - the running directory for the secondary scaffolding"
+echo "  *** ${name}_ss.fa.gz - the new reference haploid assembly"
+echo "log files:"
+echo "  _ss.scaffolding.log"
+echo 
+
+#### ===========================================================
+#### run SSPACE v3.0 on the reference haploid assembly
+#### ===========================================================
+
+mkdir $name.ss
+gunzip -c $name.fa.gz >$name.ss/$name.fa
+
+#Parameters below only considered for scaffolding and are all optional;
+#   -k  Minimum number of links (read pairs) to compute scaffold (default -k 5)
+#   -a  Maximum link ratio between two best contig pairs. higher values lead to least accurate scaffolding. (default -a 0.70)
+#   -n  Minimum overlap required between contigs to merge adjacent contigs in a scaffold (default -n 15)
+#   -z  Minimum contig size used for scaffold. Filters out contigs below this size. (default -z 0, no filtering)
+
+#Additional options;
+#   -T  Specify the number of threads to run SSPACE, used both for reading the input readfiles and mapping the reads against the contigs. For reading in the files, multiple files are read-in simultaneously. With read-mapping, the readmapper is called multiple times with 1 million reads per calls (default -T 1)
+#   -S  Skip the processing of the reads. Meaning that SSPACE was already run, but user now wants to use different extension/scaffold parameters (-S 1=yes, -S 0=no, default -S 0)
+#   -x  Indicate whether to extend the contigs of -s using paired reads in -l. (-x 1=extension, -x 0=no extension, default -x 0)
+#   -b  Base name for your output files (default -b standard_output)
+#   -p  Make .dot file for visualisation (-p 1=yes, -p 0=no, default -p 0)
+
+#NOTE THAT for the HaploMerger pipeline, -n should be set to large enough to prevent contig merging.
+#NOTE THAT for the HaploMerger pipeline, -x should be set to 0 to prevent contig extention.
+#NOTE THAT the main program of SSPACE should be accessible.
+
+perl ../SSPACE-STANDARD-3.0_linux-x86_64/SSPACE_Standard_v3.0.pl  \
+  -s ${name}.ss/$name.fa      \
+  -b ${name}.ss    \
+  -T $threads      \
+  -k $minimumLinks \
+  -a 0.68          \
+  -x 0             \
+  -n 400000        \
+  -z 500           \
+  -p 0             \
+  -l $libraryList  \
+  1>_ss.scaffolding.log 2>>_ss.scaffolding.log
+
+#### ===========================================================
+#### polish the new reference haploid assembly
+#### ===========================================================
+
+cat ${name}.ss/${name}.ss.final.scaffolds.fasta \
+	| perl ../bin/rename4sspace.pl \
+	| perl ../bin/faDnaPolishing.pl --legalizing --noLeadingN 2>_ss.faDnaPolishing.log \
+	>${name}.ss/${name}.ss.final.scaffolds.fasta2 
+ 
+ 
