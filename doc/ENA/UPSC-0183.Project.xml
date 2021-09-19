@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROJECT_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<PROJECT center_name="UPSC" alias="UPSC-0183">
+<TITLE>An Improved Chromosome-scale Genome Assembly and Population Genetics resource for Populus tremula.</TITLE>
+<DESCRIPTION>Aspen (Populus tremula L.) is a widely distributed keystone species and a model system for evolutionary, population genetics and forest tree genomics with extensive resources developed for population genetics and genomics. Here we present a chromosome-scale assembly generated using long-read sequences, optical and high-density genetic maps. The assembly contains 39,894 annotated genes with functional annotations for 73,765 transcripts in 37,184 genes. We examined synteny to the reference P. trichocarpa assembly and identified P. tremula-specific regions, the highest proportion of which were located on chromosome 19, which contains the aspen sex determination locus. Analysis of whole-genome duplication indicated differential substitution rates for the two Populus species, indicating more rapid evolution in P. tremula. Expanded gene families were enriched for terms including quercetin 7-O-glucosyltransferase activity, involved in specialised metabolism. We utilised the assembly and existing whole genome re-sequencing data to perform genome-wide SNP and k-mer association analyses in the Swedish Aspen (SwAsp), Umeå Aspen (UmAsp) and Scottish Aspen (ScotAsp) collections for three traits with highly contrasting genetic architectures: PCR-assayed sex, three leaf physiognomy phenotypes and ten salicinoid phenolic glycosides (SPGs), specialised metabolites common to aspen that play important ecological roles. Ten SPGs had significant SNP associations, including a phenolic glucoside malonyltransferase 1-like gene that explained up to 86 % of the phenotypic variation and that was under positive selection. Genome-wide k-mer based machine learning identified k-mers that predicted sex with 92 % accuracy while analysis of over 100 phenotypes in SwAsp, UmAsp and ScotAsp affirmed previous reports that aspen is sexually homomorphic. To facilitate community utilisation of these resources we have incorporated the assembly, population genetics and genomics data at the PlantGenIE.org resource, including updating existing data to the new genome version.</DESCRIPTION>
+<UMBRELLA_PROJECT/>
+<RELATED_PROJECTS>
+<RELATED_PROJECT>
+<CHILD_PROJECT accession="PRJNA297202"/>
+</RELATED_PROJECT>
+<RELATED_PROJECT>
+<CHILD_PROJECT accession="PRJEB41363"/>
+</RELATED_PROJECT>
+<RELATED_PROJECT>
+<CHILD_PROJECT accession="PRJEB42846"/>
+</RELATED_PROJECT>
+<RELATED_PROJECT>
+<CHILD_PROJECT accession="PRJEB47448"/>
+</RELATED_PROJECT>
+</RELATED_PROJECTS>
+</PROJECT>
+</PROJECT_SET>

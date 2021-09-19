@@ -1,0 +1,2 @@
+ExperimentTitle,SampleName,SampleDescription,SequencingDate1,FileName,FileLocation
+PacBio RS II sequencing of asp201 leaeves,Mature leaves from asp201 on the Umea University campus in Umea Sweden,Mature leaves from asp201 on the Umea University campus in Umea Sweden,2015-02-03T10:00:00,pb_158_filtered_subreads.fastq.gz,/mnt/picea/storage/data/aspseq/AspenGenomes/DNA-Seq/asp201/PacBio/genomic/pb_158/filtered_subreads

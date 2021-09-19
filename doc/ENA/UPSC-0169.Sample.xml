@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.sample.xsd">
+ <SAMPLE alias="UPSC-0169-S0001" center_name="UPSC">
+  <TITLE>Mature leaves from asp201 on the Umea University campus in Umea Sweden</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Mature leaves from asp201 on the Umea University campus in Umea Sweden</DESCRIPTION>
+ </SAMPLE>
+</SAMPLE_SET>

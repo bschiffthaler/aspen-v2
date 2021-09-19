@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EXPERIMENT_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.experiment.xsd">
+ <EXPERIMENT alias="UPSC-0169-E0002" center_name="UPSC">
+  <TITLE>PacBio RS II sequencing of asp201 leaeves</TITLE>
+  <STUDY_REF refname="UPSC-0169"/>
+  <DESIGN>
+   <DESIGN_DESCRIPTION>Standard PacBio RS II whole genome sequencing protocol.</DESIGN_DESCRIPTION>
+   <SAMPLE_DESCRIPTOR refname="UPSC-0169-S0001"/>
+   <LIBRARY_DESCRIPTOR>
+    <LIBRARY_NAME>Mature leaves from asp201 on the Umea University campus in Umea Sweden</LIBRARY_NAME>
+    <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+    <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+    <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+    <LIBRARY_LAYOUT>
+     <SINGLE/>
+    </LIBRARY_LAYOUT>
+    <LIBRARY_CONSTRUCTION_PROTOCOL>Standard PacBio RS II protocol</LIBRARY_CONSTRUCTION_PROTOCOL>
+   </LIBRARY_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+   <PACBIO_SMRT>
+    <INSTRUMENT_MODEL>PacBio RS II</INSTRUMENT_MODEL>
+   </PACBIO_SMRT>
+  </PLATFORM>
+ </EXPERIMENT>
+</EXPERIMENT_SET>

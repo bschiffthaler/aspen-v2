@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STUDY_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.study.xsd">
+ <STUDY alias="UPSC-0169" center_name="UPSC">
+  <DESCRIPTOR>
+   <STUDY_TITLE>An improved genome sequence for the European aspen: Populus tremula</STUDY_TITLE>
+   <STUDY_TYPE existing_study_type="Whole Genome Sequencing"/>
+   <STUDY_ABSTRACT>The Populus genus consists of about 30 species, which are commonly found in the Northern Hemisphere. They are an important model system for forest tree research, an ecological pioneer species, and of high commercial interest due to their rapid growth and ease of propagation.The genome assembly of the European aspen Populus tremula proved difficult for a short-read based strategy due to high genomic variation. As a consequence, the fragmented sequence is impeding studies that benefit from highly contiguous data, particularly genome-wide association studies (GWAS) and comparative genomics.Here we present an updated assembly based on long-read sequences, optical mapping and genetic mapping. This assembly is assembled into 19 contiguous chromosomes which provides a powerful tool for future association studies.</STUDY_ABSTRACT>
+  </DESCRIPTOR>
+ </STUDY>
+</STUDY_SET>

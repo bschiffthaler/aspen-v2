@@ -10,3 +10,5 @@ main.log
 main.fls
 main.blg
 *.log
+.Rproj.user
+*.Rproj

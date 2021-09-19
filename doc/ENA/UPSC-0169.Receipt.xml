@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2020-11-16T13:26:52.589Z" submissionFile="UPSC-0169.Submission.xml" success="true">
+     <EXPERIMENT accession="ERX4712504" alias="UPSC-0169-E0001" status="PRIVATE"/>
+     <RUN accession="ERR4842717" alias="UPSC-0169-R0001" status="PRIVATE"/>
+     <RUN accession="ERR4842718" alias="UPSC-0169-R0002" status="PRIVATE"/>
+     <SAMPLE accession="ERS5335414" alias="UPSC-0169-S0001" status="PRIVATE" holdUntilDate="2021-11-12Z">
+          <EXT_ID accession="SAMEA7577074" type="biosample"/>
+     </SAMPLE>
+     <STUDY accession="ERP125127" alias="UPSC-0169" status="PRIVATE" holdUntilDate="2021-11-12Z">
+          <EXT_ID accession="PRJEB41363" type="Project"/>
+     </STUDY>
+     <SUBMISSION accession="ERA3145700" alias="UPSC-0169"/>
+     <MESSAGES>
+          <INFO>All objects in this submission are set to private status (HOLD).</INFO>
+          <INFO>Submission has been committed.</INFO>
+     </MESSAGES>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>HOLD</ACTIONS>
+</RECEIPT>

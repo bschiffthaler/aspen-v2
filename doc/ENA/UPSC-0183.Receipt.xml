@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2021-09-10T08:26:41.166+01:00" submissionFile="UPSC-0183.Submission.xml" success="true">
+     <PROJECT accession="PRJEB47451" alias="UPSC-0183" status="PRIVATE" holdUntilDate="2023-09-08+01:00"/>
+     <SUBMISSION accession="ERA6139999" alias="UPSC-0183"/>
+     <MESSAGES>
+          <INFO>All objects in this submission are set to private status (HOLD).</INFO>
+     </MESSAGES>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>HOLD</ACTIONS>
+</RECEIPT>

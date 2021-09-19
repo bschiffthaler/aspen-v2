@@ -1,0 +1,2181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.sample.xsd">
+ <SAMPLE alias="UPSC-0182-S0001" center_name="UPSC">
+  <TITLE>UmAsp_202.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 202.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0002" center_name="UPSC">
+  <TITLE>UmAsp_207.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 207.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0003" center_name="UPSC">
+  <TITLE>UmAsp_207</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 207 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0004" center_name="UPSC">
+  <TITLE>UmAsp_208</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 208 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0005" center_name="UPSC">
+  <TITLE>UmAsp_209</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 209 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0006" center_name="UPSC">
+  <TITLE>UmAsp_213.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 213.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0007" center_name="UPSC">
+  <TITLE>UmAsp_213</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 213 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0008" center_name="UPSC">
+  <TITLE>UmAsp_214</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 214 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0009" center_name="UPSC">
+  <TITLE>UmAsp_218</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 218 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0010" center_name="UPSC">
+  <TITLE>UmAsp_220</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 220 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0011" center_name="UPSC">
+  <TITLE>UmAsp_221</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 221 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0012" center_name="UPSC">
+  <TITLE>UmAsp_222.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 222.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0013" center_name="UPSC">
+  <TITLE>UmAsp_222</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 222 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0014" center_name="UPSC">
+  <TITLE>UmAsp_223</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 223 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0015" center_name="UPSC">
+  <TITLE>UmAsp_225</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 225 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0016" center_name="UPSC">
+  <TITLE>UmAsp_226.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 226.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0017" center_name="UPSC">
+  <TITLE>UmAsp_227</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 227 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0018" center_name="UPSC">
+  <TITLE>UmAsp_228</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 228 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0019" center_name="UPSC">
+  <TITLE>UmAsp_229</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 229 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0020" center_name="UPSC">
+  <TITLE>UmAsp_230</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 230 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0021" center_name="UPSC">
+  <TITLE>UmAsp_231</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 231 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0022" center_name="UPSC">
+  <TITLE>UmAsp_232.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 232.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0023" center_name="UPSC">
+  <TITLE>UmAsp_232</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 232 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0024" center_name="UPSC">
+  <TITLE>UmAsp_233.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 233.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0025" center_name="UPSC">
+  <TITLE>UmAsp_233.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 233.2 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0026" center_name="UPSC">
+  <TITLE>UmAsp_233</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 233 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0027" center_name="UPSC">
+  <TITLE>UmAsp_234.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 234.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0028" center_name="UPSC">
+  <TITLE>UmAsp_234.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 234.2 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0029" center_name="UPSC">
+  <TITLE>UmAsp_234</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 234 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0030" center_name="UPSC">
+  <TITLE>UmAsp_235</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 235 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0031" center_name="UPSC">
+  <TITLE>UmAsp_236</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 236 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0032" center_name="UPSC">
+  <TITLE>UmAsp_237</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 237 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0033" center_name="UPSC">
+  <TITLE>UmAsp_238.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 238.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0034" center_name="UPSC">
+  <TITLE>UmAsp_238</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 238 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0035" center_name="UPSC">
+  <TITLE>UmAsp_240</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 240 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0036" center_name="UPSC">
+  <TITLE>UmAsp_241</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 241 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0037" center_name="UPSC">
+  <TITLE>UmAsp_242</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 242 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0038" center_name="UPSC">
+  <TITLE>UmAsp_243</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 243 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0039" center_name="UPSC">
+  <TITLE>UmAsp_244.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 244.2 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0040" center_name="UPSC">
+  <TITLE>UmAsp_244</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 244 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0041" center_name="UPSC">
+  <TITLE>UmAsp_245</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 245 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0042" center_name="UPSC">
+  <TITLE>UmAsp_249</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 249 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0043" center_name="UPSC">
+  <TITLE>UmAsp_250</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 250 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0044" center_name="UPSC">
+  <TITLE>UmAsp_253</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 253 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0045" center_name="UPSC">
+  <TITLE>UmAsp_254</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 254 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0046" center_name="UPSC">
+  <TITLE>UmAsp_255</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 255 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0047" center_name="UPSC">
+  <TITLE>UmAsp_257.01</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 257.01 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0048" center_name="UPSC">
+  <TITLE>UmAsp_257.04</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 257.04 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0049" center_name="UPSC">
+  <TITLE>UmAsp_257</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 257 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0050" center_name="UPSC">
+  <TITLE>UmAsp_259</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 259 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0051" center_name="UPSC">
+  <TITLE>UmAsp_260</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 260 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0052" center_name="UPSC">
+  <TITLE>UmAsp_262</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 262 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0053" center_name="UPSC">
+  <TITLE>UmAsp_263.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 263.2 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0054" center_name="UPSC">
+  <TITLE>UmAsp_265</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 265 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0055" center_name="UPSC">
+  <TITLE>UmAsp_266</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 266 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0056" center_name="UPSC">
+  <TITLE>UmAsp_267</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 267 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0057" center_name="UPSC">
+  <TITLE>UmAsp_268</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 268 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0058" center_name="UPSC">
+  <TITLE>UmAsp_270</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 270 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0059" center_name="UPSC">
+  <TITLE>UmAsp_271</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 271 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0060" center_name="UPSC">
+  <TITLE>UmAsp_272</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 272 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0061" center_name="UPSC">
+  <TITLE>UmAsp_273</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 273 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0062" center_name="UPSC">
+  <TITLE>UmAsp_275</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 275 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0063" center_name="UPSC">
+  <TITLE>UmAsp_276</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 276 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0064" center_name="UPSC">
+  <TITLE>UmAsp_277</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 277 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0065" center_name="UPSC">
+  <TITLE>UmAsp_278.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 278.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0066" center_name="UPSC">
+  <TITLE>UmAsp_279.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.2 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0067" center_name="UPSC">
+  <TITLE>UmAsp_279.3</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.3 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0068" center_name="UPSC">
+  <TITLE>UmAsp_279.4</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.4 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0069" center_name="UPSC">
+  <TITLE>UmAsp_279.7</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.7 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0070" center_name="UPSC">
+  <TITLE>UmAsp_279.45</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.45 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0071" center_name="UPSC">
+  <TITLE>UmAsp_279.51</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.51 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0072" center_name="UPSC">
+  <TITLE>UmAsp_279.55</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.55 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0073" center_name="UPSC">
+  <TITLE>UmAsp_279.57</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.57 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0074" center_name="UPSC">
+  <TITLE>UmAsp_279.59</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.59 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0075" center_name="UPSC">
+  <TITLE>UmAsp_279.61</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.61 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0076" center_name="UPSC">
+  <TITLE>UmAsp_279.66</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.66 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0077" center_name="UPSC">
+  <TITLE>UmAsp_279.69</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.69 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0078" center_name="UPSC">
+  <TITLE>UmAsp_279.71</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.71 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0079" center_name="UPSC">
+  <TITLE>UmAsp_279.74</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.74 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0080" center_name="UPSC">
+  <TITLE>UmAsp_279.77</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.77 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0081" center_name="UPSC">
+  <TITLE>UmAsp_279.79</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.79 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0082" center_name="UPSC">
+  <TITLE>UmAsp_279.81</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.81 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0083" center_name="UPSC">
+  <TITLE>UmAsp_279.83</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.83 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0084" center_name="UPSC">
+  <TITLE>UmAsp_279.84</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.84 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0085" center_name="UPSC">
+  <TITLE>UmAsp_279.85</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.85 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0086" center_name="UPSC">
+  <TITLE>UmAsp_279.87</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.87 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0087" center_name="UPSC">
+  <TITLE>UmAsp_279.89</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.89 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0088" center_name="UPSC">
+  <TITLE>UmAsp_279.91</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.91 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0089" center_name="UPSC">
+  <TITLE>UmAsp_279.92</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279.92 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0090" center_name="UPSC">
+  <TITLE>UmAsp_279</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 279 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0091" center_name="UPSC">
+  <TITLE>UmAsp_280</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 280 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0092" center_name="UPSC">
+  <TITLE>UmAsp_281</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 281 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0093" center_name="UPSC">
+  <TITLE>UmAsp_282</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 282 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0094" center_name="UPSC">
+  <TITLE>UmAsp_283.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 283.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0095" center_name="UPSC">
+  <TITLE>UmAsp_283</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 283 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0096" center_name="UPSC">
+  <TITLE>UmAsp_285</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 285 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0097" center_name="UPSC">
+  <TITLE>UmAsp_286.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 286.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0098" center_name="UPSC">
+  <TITLE>UmAsp_286.3</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 286.3 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0099" center_name="UPSC">
+  <TITLE>UmAsp_286</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 286 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0100" center_name="UPSC">
+  <TITLE>UmAsp_287</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 287 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0101" center_name="UPSC">
+  <TITLE>UmAsp_289.5</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 289.5 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0102" center_name="UPSC">
+  <TITLE>UmAsp_289</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 289 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0103" center_name="UPSC">
+  <TITLE>UmAsp_290</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 290 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0104" center_name="UPSC">
+  <TITLE>UmAsp_291</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 291 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0105" center_name="UPSC">
+  <TITLE>UmAsp_292</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 292 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0106" center_name="UPSC">
+  <TITLE>UmAsp_295</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 295 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0107" center_name="UPSC">
+  <TITLE>UmAsp_296</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 296 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0108" center_name="UPSC">
+  <TITLE>UmAsp_298.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 298.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0109" center_name="UPSC">
+  <TITLE>UmAsp_299.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 299.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0110" center_name="UPSC">
+  <TITLE>UmAsp_299.17</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 299.17 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0111" center_name="UPSC">
+  <TITLE>UmAsp_299.23</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 299.23 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0112" center_name="UPSC">
+  <TITLE>UmAsp_299</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 299 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0113" center_name="UPSC">
+  <TITLE>UmAsp_300.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 300.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0114" center_name="UPSC">
+  <TITLE>UmAsp_300.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 300.2 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0115" center_name="UPSC">
+  <TITLE>UmAsp_300</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 300 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0116" center_name="UPSC">
+  <TITLE>UmAsp_302</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 302 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0117" center_name="UPSC">
+  <TITLE>UmAsp_303</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 303 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0118" center_name="UPSC">
+  <TITLE>UmAsp_305.05</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 305.05 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0119" center_name="UPSC">
+  <TITLE>UmAsp_305.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 305.2 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0120" center_name="UPSC">
+  <TITLE>UmAsp_305.3</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 305.3 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0121" center_name="UPSC">
+  <TITLE>UmAsp_305.4</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 305.4 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0122" center_name="UPSC">
+  <TITLE>UmAsp_306</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 306 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0123" center_name="UPSC">
+  <TITLE>UmAsp_307</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 307 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0124" center_name="UPSC">
+  <TITLE>UmAsp_309.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 309.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0125" center_name="UPSC">
+  <TITLE>UmAsp_310.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 310.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0126" center_name="UPSC">
+  <TITLE>UmAsp_310.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 310.2 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0127" center_name="UPSC">
+  <TITLE>UmAsp_314</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 314 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0128" center_name="UPSC">
+  <TITLE>UmAsp_317</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 317 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0129" center_name="UPSC">
+  <TITLE>UmAsp_318.5</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 318.5 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0130" center_name="UPSC">
+  <TITLE>UmAsp_323</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 323 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0131" center_name="UPSC">
+  <TITLE>UmAsp_325</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 325 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0132" center_name="UPSC">
+  <TITLE>UmAsp_326</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 326 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0133" center_name="UPSC">
+  <TITLE>UmAsp_327</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 327 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0134" center_name="UPSC">
+  <TITLE>UmAsp_329</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 329 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0135" center_name="UPSC">
+  <TITLE>UmAsp_332</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 332 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0136" center_name="UPSC">
+  <TITLE>UmAsp_333</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 333 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0137" center_name="UPSC">
+  <TITLE>UmAsp_335.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 335.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0138" center_name="UPSC">
+  <TITLE>UmAsp_335</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 335 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0139" center_name="UPSC">
+  <TITLE>UmAsp_336.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 336.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0140" center_name="UPSC">
+  <TITLE>UmAsp_338</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 338 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0141" center_name="UPSC">
+  <TITLE>UmAsp_340</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 340 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0142" center_name="UPSC">
+  <TITLE>UmAsp_341</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 341 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0143" center_name="UPSC">
+  <TITLE>UmAsp_342</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 342 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0144" center_name="UPSC">
+  <TITLE>UmAsp_343</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 343 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0145" center_name="UPSC">
+  <TITLE>UmAsp_345</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 345 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0146" center_name="UPSC">
+  <TITLE>UmAsp_346</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 346 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0147" center_name="UPSC">
+  <TITLE>UmAsp_347</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 347 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0148" center_name="UPSC">
+  <TITLE>UmAsp_348</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 348 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0149" center_name="UPSC">
+  <TITLE>UmAsp_349.6</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 349.6 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0150" center_name="UPSC">
+  <TITLE>UmAsp_349.7</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 349.7 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0151" center_name="UPSC">
+  <TITLE>UmAsp_349.9</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 349.9 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0152" center_name="UPSC">
+  <TITLE>UmAsp_351</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 351 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0153" center_name="UPSC">
+  <TITLE>UmAsp_352</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 352 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0154" center_name="UPSC">
+  <TITLE>UmAsp_355.5</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 355.5 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0155" center_name="UPSC">
+  <TITLE>UmAsp_355</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 355 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0156" center_name="UPSC">
+  <TITLE>UmAsp_356.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 356.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0157" center_name="UPSC">
+  <TITLE>UmAsp_358.8</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 358.8 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0158" center_name="UPSC">
+  <TITLE>UmAsp_359</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 359 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0159" center_name="UPSC">
+  <TITLE>UmAsp_361.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 361.1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0160" center_name="UPSC">
+  <TITLE>UmAsp_361.8</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 361.8 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0161" center_name="UPSC">
+  <TITLE>UmAsp_361.9</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 361.9 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0162" center_name="UPSC">
+  <TITLE>UmAsp_365</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 365 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0163" center_name="UPSC">
+  <TITLE>UmAsp_367</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 367 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0164" center_name="UPSC">
+  <TITLE>UmAsp_368</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 368 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0165" center_name="UPSC">
+  <TITLE>UmAsp_369</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 369 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0166" center_name="UPSC">
+  <TITLE>UmAsp_374.5</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 374.5 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0167" center_name="UPSC">
+  <TITLE>UmAsp_374.8</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 374.8 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0168" center_name="UPSC">
+  <TITLE>UmAsp_374.9</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 374.9 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0169" center_name="UPSC">
+  <TITLE>UmAsp_374.85</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 374.85 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0170" center_name="UPSC">
+  <TITLE>UmAsp_375</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 375 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0171" center_name="UPSC">
+  <TITLE>UmAsp_376</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 376 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0172" center_name="UPSC">
+  <TITLE>UmAsp_384</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 384 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0173" center_name="UPSC">
+  <TITLE>UmAsp_386</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 386 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0174" center_name="UPSC">
+  <TITLE>UmAsp_391</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 391 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0175" center_name="UPSC">
+  <TITLE>UmAsp_392</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 392 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0176" center_name="UPSC">
+  <TITLE>UmAsp_394</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 394 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0177" center_name="UPSC">
+  <TITLE>UmAsp_395</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 395 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0178" center_name="UPSC">
+  <TITLE>UmAsp_402</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 402 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0179" center_name="UPSC">
+  <TITLE>UmAsp_403</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 403 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0180" center_name="UPSC">
+  <TITLE>UmAsp_405</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 405 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0181" center_name="UPSC">
+  <TITLE>UmAsp_406</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 406 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0182" center_name="UPSC">
+  <TITLE>UmAsp_407</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 407 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0183" center_name="UPSC">
+  <TITLE>UmAsp_408</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 408 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0184" center_name="UPSC">
+  <TITLE>UmAsp_409</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 409 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0185" center_name="UPSC">
+  <TITLE>UmAsp_410</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 410 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0186" center_name="UPSC">
+  <TITLE>UmAsp_411</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 411 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0187" center_name="UPSC">
+  <TITLE>UmAsp_412</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 412 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0188" center_name="UPSC">
+  <TITLE>UmAsp_413</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 413 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0189" center_name="UPSC">
+  <TITLE>UmAsp_414</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 414 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0190" center_name="UPSC">
+  <TITLE>UmAsp_415</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 415 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0191" center_name="UPSC">
+  <TITLE>UmAsp_416</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 416 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0192" center_name="UPSC">
+  <TITLE>UmAsp_420</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 420 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0193" center_name="UPSC">
+  <TITLE>UmAsp_421</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 421 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0194" center_name="UPSC">
+  <TITLE>UmAsp_422</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 422 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0195" center_name="UPSC">
+  <TITLE>UmAsp_424</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 424 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0196" center_name="UPSC">
+  <TITLE>UmAsp_425</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 425 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0197" center_name="UPSC">
+  <TITLE>UmAsp_429</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 429 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0198" center_name="UPSC">
+  <TITLE>UmAsp_430</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 430 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0199" center_name="UPSC">
+  <TITLE>UmAsp_434</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 434 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0200" center_name="UPSC">
+  <TITLE>UmAsp_435</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype 435 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0201" center_name="UPSC">
+  <TITLE>UmAsp_BJ4</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype BJ4 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0202" center_name="UPSC">
+  <TITLE>UmAsp_BJ9</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype BJ9 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0203" center_name="UPSC">
+  <TITLE>UmAsp_BJ11</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype BJ11 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0204" center_name="UPSC">
+  <TITLE>UmAsp_BJ20</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype BJ20 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0205" center_name="UPSC">
+  <TITLE>UmAsp_BJ23</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype BJ23 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0206" center_name="UPSC">
+  <TITLE>UmAsp_BJ24</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype BJ24 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0207" center_name="UPSC">
+  <TITLE>UmAsp_BJ25</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype BJ25 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0208" center_name="UPSC">
+  <TITLE>UmAsp_EO01</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO01 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0209" center_name="UPSC">
+  <TITLE>UmAsp_EO07</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO07 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0210" center_name="UPSC">
+  <TITLE>UmAsp_EO10</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO10 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0211" center_name="UPSC">
+  <TITLE>UmAsp_EO11</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO11 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0212" center_name="UPSC">
+  <TITLE>UmAsp_EO12</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO12 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0213" center_name="UPSC">
+  <TITLE>UmAsp_EO13</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO13 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0214" center_name="UPSC">
+  <TITLE>UmAsp_EO14</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO14 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0215" center_name="UPSC">
+  <TITLE>UmAsp_EO16</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO16 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0216" center_name="UPSC">
+  <TITLE>UmAsp_EO17</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO17 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0217" center_name="UPSC">
+  <TITLE>UmAsp_EO18</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO18 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0218" center_name="UPSC">
+  <TITLE>UmAsp_EO19</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO19 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0219" center_name="UPSC">
+  <TITLE>UmAsp_EO21</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO21 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0220" center_name="UPSC">
+  <TITLE>UmAsp_EO22</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO22 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0221" center_name="UPSC">
+  <TITLE>UmAsp_EO23</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO23 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0222" center_name="UPSC">
+  <TITLE>UmAsp_EO24</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO24 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0223" center_name="UPSC">
+  <TITLE>UmAsp_EO26</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype EO26 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0224" center_name="UPSC">
+  <TITLE>UmAsp_K2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype K2 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0225" center_name="UPSC">
+  <TITLE>UmAsp_L1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype L1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0226" center_name="UPSC">
+  <TITLE>UmAsp_L2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype L2 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0227" center_name="UPSC">
+  <TITLE>UmAsp_MB1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0228" center_name="UPSC">
+  <TITLE>UmAsp_MB3</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB3 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0229" center_name="UPSC">
+  <TITLE>UmAsp_MB4</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB4 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0230" center_name="UPSC">
+  <TITLE>UmAsp_MB9</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB9 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0231" center_name="UPSC">
+  <TITLE>UmAsp_MB10</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB10 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0232" center_name="UPSC">
+  <TITLE>UmAsp_MB11</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB11 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0233" center_name="UPSC">
+  <TITLE>UmAsp_MB23</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB23 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0234" center_name="UPSC">
+  <TITLE>UmAsp_MB24</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB24 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0235" center_name="UPSC">
+  <TITLE>UmAsp_MB25</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB25 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0236" center_name="UPSC">
+  <TITLE>UmAsp_MB26</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB26 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0237" center_name="UPSC">
+  <TITLE>UmAsp_MB27</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB27 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0238" center_name="UPSC">
+  <TITLE>UmAsp_MB28</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB28 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0239" center_name="UPSC">
+  <TITLE>UmAsp_MB35</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype MB35 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0240" center_name="UPSC">
+  <TITLE>UmAsp_T1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype T1 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0241" center_name="UPSC">
+  <TITLE>UmAsp_T2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype T2 of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0182-S0242" center_name="UPSC">
+  <TITLE>UmAsp_V</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Genotype V of the P. tremula UmAsp population (SWEDEN)</DESCRIPTION>
+ </SAMPLE>
+</SAMPLE_SET>

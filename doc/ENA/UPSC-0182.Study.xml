@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STUDY_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.study.xsd">
+ <STUDY alias="UPSC-0182" center_name="UPSC">
+  <DESCRIPTOR>
+   <STUDY_TITLE>An Improved Chromosome-scale Genome Assembly and Population Genetics resource for Populus tremula.</STUDY_TITLE>
+   <STUDY_TYPE existing_study_type="RNASeq"/>
+   <STUDY_ABSTRACT>Populus tremula (UmAsp) re-sequencing project: a collection of Populus tremula (European aspen) samples from the Umeå region of Sweden.</STUDY_ABSTRACT>
+  </DESCRIPTOR>
+ </STUDY>
+</STUDY_SET>

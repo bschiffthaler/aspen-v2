@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RUN_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.run.xsd">
+ <RUN alias="UPSC-0169-R0001" center_name="UPSC" run_center="SciLifeLab" run_date="2015-04-08T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0169-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0169/1_150313_AH22CGBCXX_P1339_1001_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="1ce754345fc21976b08773b6e8af0ec1"/>
+    <FILE filename="UPSC-0169/1_150313_AH22CGBCXX_P1339_1001_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="46818e3a6a8280fc2f51dac0bc84ccfc"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0169-R0002" center_name="UPSC" run_center="SciLifeLab" run_date="2015-04-08T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0169-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0169/2_150313_AH22CGBCXX_P1339_1001_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="6a7d733de967e3f5cbc3f8909c1a8155"/>
+    <FILE filename="UPSC-0169/2_150313_AH22CGBCXX_P1339_1001_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="3cfb51b38552f9e443944088abb44233"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+</RUN_SET>

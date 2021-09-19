@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EXPERIMENT_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.experiment.xsd">
+ <EXPERIMENT alias="UPSC-0169-E0001" center_name="UPSC">
+  <TITLE>Illumina PE sequencing of asp201 leaves</TITLE>
+  <STUDY_REF refname="UPSC-0169"/>
+  <DESIGN>
+   <DESIGN_DESCRIPTION>Standard Illumina PE whole genome sequencing protocol.</DESIGN_DESCRIPTION>
+   <SAMPLE_DESCRIPTOR refname="UPSC-0169-S0001"/>
+   <LIBRARY_DESCRIPTOR>
+    <LIBRARY_NAME>Mature leaves from asp201 on the Umea University campus in Umea Sweden</LIBRARY_NAME>
+    <LIBRARY_STRATEGY>WGS</LIBRARY_STRATEGY>
+    <LIBRARY_SOURCE>GENOMIC</LIBRARY_SOURCE>
+    <LIBRARY_SELECTION>RANDOM</LIBRARY_SELECTION>
+    <LIBRARY_LAYOUT>
+     <PAIRED NOMINAL_LENGTH="500"/>
+    </LIBRARY_LAYOUT>
+    <LIBRARY_CONSTRUCTION_PROTOCOL>Standard Illumina PE protocol</LIBRARY_CONSTRUCTION_PROTOCOL>
+   </LIBRARY_DESCRIPTOR>
+   <SPOT_DESCRIPTOR>
+    <SPOT_DECODE_SPEC>
+     <SPOT_LENGTH>300</SPOT_LENGTH>
+     <READ_SPEC>
+      <READ_INDEX>0</READ_INDEX>
+      <READ_LABEL>F</READ_LABEL>
+      <READ_CLASS>Application Read</READ_CLASS>
+      <READ_TYPE>Forward</READ_TYPE>
+      <BASE_COORD>1</BASE_COORD>
+     </READ_SPEC>
+     <READ_SPEC>
+      <READ_INDEX>1</READ_INDEX>
+      <READ_LABEL>R</READ_LABEL>
+      <READ_CLASS>Application Read</READ_CLASS>
+      <READ_TYPE>Reverse</READ_TYPE>
+      <BASE_COORD>301</BASE_COORD>
+     </READ_SPEC>
+    </SPOT_DECODE_SPEC>
+   </SPOT_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+   <ILLUMINA>
+    <INSTRUMENT_MODEL>Illumina HiSeq 2500</INSTRUMENT_MODEL>
+   </ILLUMINA>
+  </PLATFORM>
+ </EXPERIMENT>
+</EXPERIMENT_SET>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2020-11-16T21:52:10.943Z" submissionFile="UPSC-0169.Submission2.xml" success="true">
+     <EXPERIMENT accession="ERX4713932" alias="UPSC-0169-E0002" status="PRIVATE"/>
+     <RUN accession="ERR4844148" alias="UPSC-0169-R0003" status="PRIVATE"/>
+     <SUBMISSION accession="ERA3145794" alias="UPSC-0169-2"/>
+     <MESSAGES>
+          <INFO>Submission has been committed.</INFO>
+     </MESSAGES>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+</RECEIPT>
