@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2024-08-07T10:21:58.095+01:00" submissionFile="UPSC-0182.Update.Submission.xml" success="true">
+     <SAMPLE accession="ERS7602110" alias="UPSC-0182-S0001" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923757" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602111" alias="UPSC-0182-S0002" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923758" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602112" alias="UPSC-0182-S0003" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923759" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602113" alias="UPSC-0182-S0004" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923760" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602114" alias="UPSC-0182-S0005" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923761" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602115" alias="UPSC-0182-S0006" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923762" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602116" alias="UPSC-0182-S0007" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923763" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602117" alias="UPSC-0182-S0008" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923764" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602118" alias="UPSC-0182-S0009" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923765" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602119" alias="UPSC-0182-S0010" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923766" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602120" alias="UPSC-0182-S0011" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923767" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602121" alias="UPSC-0182-S0012" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923768" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602122" alias="UPSC-0182-S0013" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923769" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602123" alias="UPSC-0182-S0014" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923770" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602124" alias="UPSC-0182-S0015" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923771" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602125" alias="UPSC-0182-S0016" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923772" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602126" alias="UPSC-0182-S0017" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923773" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602127" alias="UPSC-0182-S0018" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923774" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602128" alias="UPSC-0182-S0019" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923775" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602129" alias="UPSC-0182-S0020" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923776" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602130" alias="UPSC-0182-S0021" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923777" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602131" alias="UPSC-0182-S0022" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923778" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602132" alias="UPSC-0182-S0023" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923779" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602133" alias="UPSC-0182-S0024" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923780" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602134" alias="UPSC-0182-S0025" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923781" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602135" alias="UPSC-0182-S0026" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923782" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602136" alias="UPSC-0182-S0027" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923783" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602137" alias="UPSC-0182-S0028" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923784" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602138" alias="UPSC-0182-S0029" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923785" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602139" alias="UPSC-0182-S0030" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923786" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602140" alias="UPSC-0182-S0031" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923787" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602141" alias="UPSC-0182-S0032" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923788" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602142" alias="UPSC-0182-S0033" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923789" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602143" alias="UPSC-0182-S0034" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923790" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602144" alias="UPSC-0182-S0035" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923791" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602145" alias="UPSC-0182-S0036" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923792" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602146" alias="UPSC-0182-S0037" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923793" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602147" alias="UPSC-0182-S0038" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923794" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602148" alias="UPSC-0182-S0039" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923795" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602149" alias="UPSC-0182-S0040" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923796" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602150" alias="UPSC-0182-S0041" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923797" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602151" alias="UPSC-0182-S0042" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923798" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602152" alias="UPSC-0182-S0043" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923799" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602153" alias="UPSC-0182-S0044" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923800" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602154" alias="UPSC-0182-S0045" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923801" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602155" alias="UPSC-0182-S0046" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923802" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602156" alias="UPSC-0182-S0047" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923803" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602157" alias="UPSC-0182-S0048" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923804" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602158" alias="UPSC-0182-S0049" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923805" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602159" alias="UPSC-0182-S0050" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923806" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602160" alias="UPSC-0182-S0051" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923807" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602161" alias="UPSC-0182-S0052" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923808" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602162" alias="UPSC-0182-S0053" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923809" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602163" alias="UPSC-0182-S0054" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923810" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602164" alias="UPSC-0182-S0055" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923811" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602165" alias="UPSC-0182-S0056" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923812" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602166" alias="UPSC-0182-S0057" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923813" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602167" alias="UPSC-0182-S0058" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923814" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602168" alias="UPSC-0182-S0059" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923815" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602169" alias="UPSC-0182-S0060" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923816" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602170" alias="UPSC-0182-S0061" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923817" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602171" alias="UPSC-0182-S0062" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923818" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602172" alias="UPSC-0182-S0063" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923819" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602173" alias="UPSC-0182-S0064" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923820" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602174" alias="UPSC-0182-S0065" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923821" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602175" alias="UPSC-0182-S0066" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923822" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602176" alias="UPSC-0182-S0067" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923823" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602177" alias="UPSC-0182-S0068" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923824" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602178" alias="UPSC-0182-S0069" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923825" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602179" alias="UPSC-0182-S0070" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923826" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602180" alias="UPSC-0182-S0071" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923827" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602181" alias="UPSC-0182-S0072" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923828" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602182" alias="UPSC-0182-S0073" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923829" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602183" alias="UPSC-0182-S0074" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923830" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602184" alias="UPSC-0182-S0075" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923831" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602185" alias="UPSC-0182-S0076" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923832" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602186" alias="UPSC-0182-S0077" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923833" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602187" alias="UPSC-0182-S0078" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923834" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602188" alias="UPSC-0182-S0079" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923835" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602189" alias="UPSC-0182-S0080" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923836" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602190" alias="UPSC-0182-S0081" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923837" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602191" alias="UPSC-0182-S0082" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923838" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602192" alias="UPSC-0182-S0083" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923839" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602193" alias="UPSC-0182-S0084" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923840" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602194" alias="UPSC-0182-S0085" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923841" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602195" alias="UPSC-0182-S0086" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923842" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602196" alias="UPSC-0182-S0087" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923843" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602197" alias="UPSC-0182-S0088" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923844" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602198" alias="UPSC-0182-S0089" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923845" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602199" alias="UPSC-0182-S0090" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923846" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602200" alias="UPSC-0182-S0091" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923847" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602201" alias="UPSC-0182-S0092" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923848" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602202" alias="UPSC-0182-S0093" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923849" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602203" alias="UPSC-0182-S0094" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923850" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602204" alias="UPSC-0182-S0095" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923851" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602205" alias="UPSC-0182-S0096" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923852" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602206" alias="UPSC-0182-S0097" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923853" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602207" alias="UPSC-0182-S0098" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923854" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602208" alias="UPSC-0182-S0099" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923855" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602209" alias="UPSC-0182-S0100" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923856" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602210" alias="UPSC-0182-S0101" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923857" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602211" alias="UPSC-0182-S0102" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923858" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602212" alias="UPSC-0182-S0103" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923859" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602213" alias="UPSC-0182-S0104" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923860" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602214" alias="UPSC-0182-S0105" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923861" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602215" alias="UPSC-0182-S0106" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923862" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602216" alias="UPSC-0182-S0107" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923863" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602217" alias="UPSC-0182-S0108" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923864" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602218" alias="UPSC-0182-S0109" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923865" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602219" alias="UPSC-0182-S0110" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923866" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602220" alias="UPSC-0182-S0111" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923867" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602221" alias="UPSC-0182-S0112" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923868" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602222" alias="UPSC-0182-S0113" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923869" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602223" alias="UPSC-0182-S0114" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923870" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602224" alias="UPSC-0182-S0115" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923871" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602225" alias="UPSC-0182-S0116" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923872" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602226" alias="UPSC-0182-S0117" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923873" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602227" alias="UPSC-0182-S0118" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923874" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602228" alias="UPSC-0182-S0119" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923875" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602229" alias="UPSC-0182-S0120" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923876" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602230" alias="UPSC-0182-S0121" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923877" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602231" alias="UPSC-0182-S0122" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923878" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602232" alias="UPSC-0182-S0123" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923879" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602233" alias="UPSC-0182-S0124" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923880" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602234" alias="UPSC-0182-S0125" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923881" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602235" alias="UPSC-0182-S0126" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923882" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602236" alias="UPSC-0182-S0127" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923883" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602237" alias="UPSC-0182-S0128" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923884" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602238" alias="UPSC-0182-S0129" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923885" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602239" alias="UPSC-0182-S0130" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923886" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602240" alias="UPSC-0182-S0131" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923887" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602241" alias="UPSC-0182-S0132" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923888" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602242" alias="UPSC-0182-S0133" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923889" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602243" alias="UPSC-0182-S0134" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923890" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602244" alias="UPSC-0182-S0135" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923891" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602245" alias="UPSC-0182-S0136" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923892" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602246" alias="UPSC-0182-S0137" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923893" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602247" alias="UPSC-0182-S0138" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923894" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602248" alias="UPSC-0182-S0139" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923895" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602249" alias="UPSC-0182-S0140" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923896" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602250" alias="UPSC-0182-S0141" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923897" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602251" alias="UPSC-0182-S0142" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923898" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602252" alias="UPSC-0182-S0143" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923899" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602253" alias="UPSC-0182-S0144" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923900" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602254" alias="UPSC-0182-S0145" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923901" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602255" alias="UPSC-0182-S0146" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923902" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602256" alias="UPSC-0182-S0147" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923903" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602257" alias="UPSC-0182-S0148" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923904" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602258" alias="UPSC-0182-S0149" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923905" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602259" alias="UPSC-0182-S0150" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923906" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602260" alias="UPSC-0182-S0151" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923907" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602261" alias="UPSC-0182-S0152" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923908" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602262" alias="UPSC-0182-S0153" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923909" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602263" alias="UPSC-0182-S0154" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923910" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602264" alias="UPSC-0182-S0155" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923911" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602265" alias="UPSC-0182-S0156" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923912" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602266" alias="UPSC-0182-S0157" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923913" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602267" alias="UPSC-0182-S0158" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923914" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602268" alias="UPSC-0182-S0159" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923915" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602269" alias="UPSC-0182-S0160" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923916" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602270" alias="UPSC-0182-S0161" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923917" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602271" alias="UPSC-0182-S0162" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923918" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602272" alias="UPSC-0182-S0163" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923919" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602273" alias="UPSC-0182-S0164" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923920" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602274" alias="UPSC-0182-S0165" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923921" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602275" alias="UPSC-0182-S0166" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923922" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602276" alias="UPSC-0182-S0167" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923923" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602277" alias="UPSC-0182-S0168" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923924" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602278" alias="UPSC-0182-S0169" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923925" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602279" alias="UPSC-0182-S0170" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923926" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602280" alias="UPSC-0182-S0171" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923927" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602281" alias="UPSC-0182-S0172" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923928" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602282" alias="UPSC-0182-S0173" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923929" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602283" alias="UPSC-0182-S0174" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923930" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602284" alias="UPSC-0182-S0175" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923931" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602285" alias="UPSC-0182-S0176" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923932" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602286" alias="UPSC-0182-S0177" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923933" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602287" alias="UPSC-0182-S0178" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923934" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602288" alias="UPSC-0182-S0179" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923935" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602289" alias="UPSC-0182-S0180" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923936" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602290" alias="UPSC-0182-S0181" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923937" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602291" alias="UPSC-0182-S0182" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923938" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602292" alias="UPSC-0182-S0183" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923939" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602293" alias="UPSC-0182-S0184" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923940" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602294" alias="UPSC-0182-S0185" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923941" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602295" alias="UPSC-0182-S0186" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923942" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602296" alias="UPSC-0182-S0187" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923943" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602297" alias="UPSC-0182-S0188" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923944" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602298" alias="UPSC-0182-S0189" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923945" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602299" alias="UPSC-0182-S0190" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923946" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602300" alias="UPSC-0182-S0191" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923947" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602301" alias="UPSC-0182-S0192" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923948" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602302" alias="UPSC-0182-S0193" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923949" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602303" alias="UPSC-0182-S0194" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923950" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602304" alias="UPSC-0182-S0195" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923951" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602305" alias="UPSC-0182-S0196" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923952" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602306" alias="UPSC-0182-S0197" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923953" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602307" alias="UPSC-0182-S0198" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923954" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602308" alias="UPSC-0182-S0199" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923955" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602309" alias="UPSC-0182-S0200" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923956" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602310" alias="UPSC-0182-S0201" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923957" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602311" alias="UPSC-0182-S0202" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923958" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602312" alias="UPSC-0182-S0203" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923959" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602313" alias="UPSC-0182-S0204" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923960" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602314" alias="UPSC-0182-S0205" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923961" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602315" alias="UPSC-0182-S0206" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923962" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602316" alias="UPSC-0182-S0207" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923963" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602317" alias="UPSC-0182-S0208" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923964" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602318" alias="UPSC-0182-S0209" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923965" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602319" alias="UPSC-0182-S0210" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923966" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602320" alias="UPSC-0182-S0211" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923967" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602321" alias="UPSC-0182-S0212" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923968" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602322" alias="UPSC-0182-S0213" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923969" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602323" alias="UPSC-0182-S0214" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923970" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602324" alias="UPSC-0182-S0215" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923971" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602325" alias="UPSC-0182-S0216" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923972" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602326" alias="UPSC-0182-S0217" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923973" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602327" alias="UPSC-0182-S0218" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923974" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602328" alias="UPSC-0182-S0219" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923975" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602329" alias="UPSC-0182-S0220" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923976" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602330" alias="UPSC-0182-S0221" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923977" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602331" alias="UPSC-0182-S0222" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923978" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602332" alias="UPSC-0182-S0223" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923979" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602333" alias="UPSC-0182-S0224" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923980" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602334" alias="UPSC-0182-S0225" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923981" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602335" alias="UPSC-0182-S0226" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923982" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602336" alias="UPSC-0182-S0227" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923983" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602337" alias="UPSC-0182-S0228" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923984" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602338" alias="UPSC-0182-S0229" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923985" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602339" alias="UPSC-0182-S0230" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923986" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602340" alias="UPSC-0182-S0231" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923987" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602341" alias="UPSC-0182-S0232" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923988" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602342" alias="UPSC-0182-S0233" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923989" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602343" alias="UPSC-0182-S0234" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923990" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602344" alias="UPSC-0182-S0235" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923991" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602345" alias="UPSC-0182-S0236" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923992" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602346" alias="UPSC-0182-S0237" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923993" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602347" alias="UPSC-0182-S0238" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923994" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602348" alias="UPSC-0182-S0239" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923995" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602349" alias="UPSC-0182-S0240" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923996" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602350" alias="UPSC-0182-S0241" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923997" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7602351" alias="UPSC-0182-S0242" status="PUBLIC">
+          <EXT_ID accession="SAMEA9923998" type="biosample"/>
+     </SAMPLE>
+     <SUBMISSION accession="ERA6129109" alias="UPSC-0182"/>
+     <MESSAGES/>
+     <ACTIONS>MODIFY</ACTIONS>
+</RECEIPT>
